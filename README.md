@@ -1,0 +1,3 @@
+- Hi, I’m @tomprincehorn, currently a student at Columbus State Community College pursuing Software Development, looking to graduate in December 2022.
+- I'm interested in all sorts of programming, with my favorite language being Java, though I do have experience in Python, C#, C++, and JavaScript
+- I'm always looking for different ways to improve my coding skills, whether it be working on open-source projects on Github, or completing puzzles on CodinGame
